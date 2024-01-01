@@ -7,4 +7,4 @@
           - push_swap - program sorts the stack using only a specific set of instructions. [[Repo]](https://github.com/crender23/push_swap)
           - ft_printf - reproduction printf function from the C language Standart library. [[Repo]](https://github.com/crender23/ft_printf)
           - get_next_line - a function that returns a line read from a file descriptor. [[Repo]](https://github.com/crender23/get_next_line)
-          - libft - reproduction some functions from the C language Standart library. [[Repo]] (https://github.com/crender23/42-libft)
+          - libft - reproduction some functions from the C language Standart library. [[Repo]](https://github.com/crender23/42-libft)
